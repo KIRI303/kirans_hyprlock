@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Hyprland](https://img.shields.io/badge/Hyprland-0.55+-58E1FF)](https://hyprland.org/)
 [![hyprlock](https://img.shields.io/badge/hyprlock-config-b4befe)](https://github.com/hyprwm/hyprlock)
-[![Last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO?color=a6e3a1)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?color=f9e2af)](https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?color=89b4fa)](https://github.com/YOUR_USERNAME/YOUR_REPO/network/members)
+[![Last commit](https://img.shields.io/github/last-commit/KIRI303/https://github.com/KIRI303/kirans_hyprlock.gitcolor=a6e3a1)](https://github.com/YOUR_USERNAME/YOUR_REPO/commits)
+[![Stars](https://img.shields.io/github/stars/KIRI303/https://github.com/KIRI303/kirans_hyprlock.gitcolor=f9e2af)](https://github.com/KIRI303/https://github.com/KIRI303/kirans_hyprlock.git/stargazers)
+[![Forks](https://img.shields.io/github/forks/KIRI303/https://github.com/KIRI303/kirans_hyprlock.gitcolor=89b4fa)](https://github.com/KIRI303/https://github.com/KIRI303/kirans_hyprlock.git/network/members)
 
 A minimal, centered lock screen for [Hyprland](https://hyprland.org/) built with [hyprlock](https://github.com/hyprwm/hyprlock). It uses a blurred wallpaper, a soft Catppuccin-style password field, a round avatar, a big clock, and a Japanese greeting.
 
