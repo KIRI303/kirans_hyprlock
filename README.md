@@ -1,11 +1,15 @@
 # 🔒 Hyprlock Config
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-f9e2af?style=for-the-badge&logo=opensourceinitiative&logoColor=1e1e2e&labelColor=1e1e2e" alt="License: MIT"></a>
+  <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-0.55+-89dceb?style=for-the-badge&logo=linux&logoColor=89dceb&labelColor=1e1e2e" alt="Hyprland"></a>
+  <a href="https://github.com/hyprwm/hyprlock"><img src="https://img.shields.io/badge/hyprlock-config-b4befe?style=for-the-badge&logo=gnometerminal&logoColor=b4befe&labelColor=1e1e2e" alt="hyprlock"></a>
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Hyprland](https://img.shields.io/badge/Hyprland-0.55+-58E1FF)](https://hyprland.org/)
-[![hyprlock](https://img.shields.io/badge/hyprlock-config-b4befe)](https://github.com/hyprwm/hyprlock)
-[![Last commit](https://img.shields.io/github/last-commit/KIRI303/kirans_hyprlock.gitcolor=a6e3a1)](https://github.com/KIRI303/kirans_hyprlock.git/commits)
-[![Stars](https://img.shields.io/github/stars/KIRI303/kirans_hyprlock.gitcolor=f9e2af)](https://github.com/KIRI303/kirans_hyprlock.git/stargazers)
-[![Forks](https://img.shields.io/github/forks/KIRI303/kirans_hyprlock.gitcolor=89b4fa)](https://github.com/KIRI303/kirans_hyprlock.git/network/members)
+<p align="center">
+  <a href="https://github.com/KIRI303/kirans_hyprlock/commits"><img src="https://img.shields.io/github/last-commit/KIRI303/kirans_hyprlock?style=for-the-badge&logo=github&logoColor=a6e3a1&color=a6e3a1&labelColor=1e1e2e" alt="Last commit"></a>
+  <a href="https://github.com/KIRI303/kirans_hyprlock/stargazers"><img src="https://img.shields.io/github/stars/KIRI303/kirans_hyprlock?style=for-the-badge&logo=github&logoColor=f9e2af&color=f9e2af&labelColor=1e1e2e" alt="Stars"></a>
+  <a href="https://github.com/KIRI303/kirans_hyprlock/network/members"><img src="https://img.shields.io/github/forks/KIRI303/kirans_hyprlock?style=for-the-badge&logo=github&logoColor=89b4fa&color=89b4fa&labelColor=1e1e2e" alt="Forks"></a>
+</p>
 
 A minimal, centered lock screen for [Hyprland](https://hyprland.org/) built with [hyprlock](https://github.com/hyprwm/hyprlock). It uses a blurred wallpaper, a soft Catppuccin-style password field, a round avatar, a big clock, and a Japanese greeting.
 
